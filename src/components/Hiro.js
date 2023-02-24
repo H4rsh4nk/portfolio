@@ -43,12 +43,9 @@ export default function Hiro () {
               <p class="text-xl font-bold text-gray-300">Software Engineer</p>
               <p className="text-md font-light text-gray-400 ">
                             Your friendly neighbourhood IT guy. 
-                            
-                            (To be edited)
-                            Enthusiastic and motivated self-learning in Information
-                Technology. Interested in exploring about Computer Network,
-                Cloud Computing, DevSecops, and Web Development. Now I am
-                looking for more experience in my field.
+                                       
+                            Enthusiastic and motivated self-learner. Interested in exploring Cloud Computing, Fullstack, Software Development and Gaming
+                .
               </p>
             </div>
             {/* <a href="http://blog.dama.ink" className="mt-2 block">
