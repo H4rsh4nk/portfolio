@@ -1,5 +1,4 @@
-# Personal Portfolio Website
-My personal Portfolio
+# Personal Portfolio
 
 
 https://h4rsh4nk.github.io/portfolio/
