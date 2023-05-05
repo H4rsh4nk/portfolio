@@ -12,13 +12,13 @@ export default function Honors() {
 
       <div className="flex flex-col md:flex-row mt-4 gap-5">
         <HonorCard
-          name="System Engineer"
+          name="Assistant System Engineer"
           issued="Tata Consultancy Services - 10 months"
           desc="Worked on the front end for a major retail company using React, NodeJS, and PostgreSQL. I created a custom promotion algorithm using XML and AWS, and worked with Agile methodologies using JIRA, including unit testing and preparing sprint release documents. Additionally, I was responsible for technical testing, defect triage, and maintaining the Kanban board and Sprint Backlog. I also helped the Automation Testing team generate scripts using BDD Cucumber."
         />
         <HonorCard
-          name="Web Developer"
-          issued="Red Raven Infoways - 9 months"
+          name="Web Developer Internship"
+          issued="Red Raven Infoways - 1 year"
           desc="I developed and maintained e-commerce websites with HTML, CSS, JavaScript, and ReactJS, created an inventory management system with MySQL and RESTful API, performed cross-browser compatibility testing, and optimized website performance with techniques like lazy loading and caching, using Git for version control and collaboration."
         />
         <HonorCard
