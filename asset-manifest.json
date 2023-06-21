@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1c5c112d.css",
-    "main.js": "/portfolio/static/js/main.e31c9792.js",
+    "main.css": "/portfolio/static/css/main.7356d4d7.css",
+    "main.js": "/portfolio/static/js/main.16d969bf.js",
     "static/js/787.a7249224.chunk.js": "/portfolio/static/js/787.a7249224.chunk.js",
     "static/media/python.jpeg": "/portfolio/static/media/python.d555a447a553a2ed0dba.jpeg",
     "static/media/aws.jpeg": "/portfolio/static/media/aws.7b8623875202b1a120a5.jpeg",
     "static/media/carbon.png": "/portfolio/static/media/carbon.51e3e8df810a866b8281.png",
     "static/media/mikrotik.svg": "/portfolio/static/media/mikrotik.d2e17a6764779d1cc982433d85aeeb58.svg",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.f90c6cac15d864f7473b.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.97a82815c4a75e8ff420.pdf",
     "static/media/postgresql.png": "/portfolio/static/media/postgresql.2b6391161de27749b067.png",
     "static/media/linux.svg": "/portfolio/static/media/linux.32a9bcd0350f51b5188852a775332b6c.svg",
     "static/media/C++.png": "/portfolio/static/media/C++.9de9df950e692f5576c1.png",
     "static/media/kubernetes.svg": "/portfolio/static/media/kubernetes.44d2e074b50592a1e5050b2713afd82c.svg",
     "static/media/react.svg": "/portfolio/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
-    "static/media/aws.svg": "/portfolio/static/media/aws.302b8b7756f237c7429273e303078e7a.svg",
     "static/media/ansible.svg": "/portfolio/static/media/ansible.b7e5786c9eef61e4ba42a993d20107c6.svg",
     "static/media/java-svgrepo-com.svg": "/portfolio/static/media/java-svgrepo-com.68585ce8dadbd8ecebdc99a764c5c1cf.svg",
     "static/media/bash.svg": "/portfolio/static/media/bash.9e769001e7aaa8f0e6d77c541525677e.svg",
     "static/media/kvm.svg": "/portfolio/static/media/kvm.1f706ce94026b9558de284aa1f46657e.svg",
     "static/media/nodejs.svg": "/portfolio/static/media/nodejs.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/Amazon_Web_Services-Logo.wine.svg": "/portfolio/static/media/Amazon_Web_Services-Logo.wine.6c9e94255a6ca4d791f3dafd9675a055.svg",
     "static/media/python.svg": "/portfolio/static/media/python.e78f188fa5e62ee2613d19802f817df6.svg",
     "static/media/mysql-icon.svg": "/portfolio/static/media/mysql-icon.4c50926040e5a77a27dba211addc08e3.svg",
     "static/media/docker.svg": "/portfolio/static/media/docker.fec5c368807b57ea14a3f991f894c53d.svg",
@@ -37,12 +37,12 @@
     "static/media/logo.svg": "/portfolio/static/media/logo.0de5eeb507ac199b911c4916f2e3cb58.svg",
     "static/media/windows.svg": "/portfolio/static/media/windows.7246ccf28ddce71d8cfd11c1ffc38c86.svg",
     "index.html": "/portfolio/index.html",
-    "main.1c5c112d.css.map": "/portfolio/static/css/main.1c5c112d.css.map",
-    "main.e31c9792.js.map": "/portfolio/static/js/main.e31c9792.js.map",
+    "main.7356d4d7.css.map": "/portfolio/static/css/main.7356d4d7.css.map",
+    "main.16d969bf.js.map": "/portfolio/static/js/main.16d969bf.js.map",
     "787.a7249224.chunk.js.map": "/portfolio/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5c112d.css",
-    "static/js/main.e31c9792.js"
+    "static/css/main.7356d4d7.css",
+    "static/js/main.16d969bf.js"
   ]
 }
