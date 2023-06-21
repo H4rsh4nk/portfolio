@@ -13,13 +13,13 @@ export default function Hiro () {
     return (
       <>
         {loaded ? (
-          <div className="fixed top-0 left-0 right-0 bottom-0 w-full h-screen z-50 overflow-hidden bg-white flex flex-col items-center justify-center">
+          <div className="fixed top-0  left-0 right-0 bottom-0 w-full z-50 overflow-hidden bg-white flex flex-col items-center justify-center">
             Loading...
           </div>
         ) : null}
         <div
           id="home"
-          className="flex w-full h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative"
+          className="flex w-full flex-col mt-10 pt-10 md:flex-row gap-5 items-center justify-center text-white relative"
         >
           <div className="md:w-3/6 md:p-4">
             <img
@@ -42,10 +42,18 @@ export default function Hiro () {
               <h1 className="text-2xl font-bold">Harshank Pathak</h1>
               <p class="text-xl font-bold text-gray-300">Software Engineer</p>
               <p className="text-md font-light text-gray-400 ">
-                            Your friendly neighbourhood IT guy. 
-                                       
-                            Enthusiastic and motivated self-learner. Interested in exploring Cloud Computing, Fullstack, Software Development and Gaming
-                .
+              I'm a software developer who spends most of their day staring at a computer screen and typing code until my fingers ache. But hey, I'm not complaining - I get to make cool stuff and solve problems all day long.
+<br/>
+<br/>
+I'm the proud creator of some of the world's most beautifully crafted code (at least, that's what my mom tells me). When I'm not busy fixing bugs or making software that impresses my colleagues, you can find me trying to remember what the sun looks like or debating the merits of using tabs versus spaces.
+<br/>
+<br/>
+My skills include everything from Java to JavaScript, Python to PHP, and even a bit of C++ for good measure. I'm a jack-of-all-trades when it comes to software development, but a master of none (yet).
+<br/>
+<br/>
+So if you're looking for a software developer who can bring a sense of humor to your team, then look no further. I may not be the funniest person in the world, but I promise to bring a smile to your face every time you see my code.
+     <br/>
+<br/>
               </p>
             </div>
             {/* <a href="http://blog.dama.ink" className="mt-2 block">
@@ -83,8 +91,8 @@ export default function Hiro () {
               </li>
             </ul>
           </div>
-          <img src={hr} className="w-full md:h-2 absolute bottom-0" alt="hr" />
         </div>
+          <img src={hr} className="flex w-full md:h-2 mt-10" alt="hr" />
       </>
     );
 }
