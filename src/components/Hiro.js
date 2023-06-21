@@ -56,12 +56,21 @@ So if you're looking for a software developer who can bring a sense of humor to 
 <br/>
               </p>
             </div>
-            {/* <a href="http://blog.dama.ink" className="mt-2 block">
-              Go to My Blog{" "}
-              <FontAwesomeIcon className="ml-2" icon={faCircleArrowRight} />{" "}
-            </a> */}
-
             <ul className="flex mt-2 gap-4 items-center">
+               <li>
+                <a
+                  
+              href="https://leetcode.com/pathakharsh13/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <img 
+                className='h-8'
+                src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"
+                alt="LinkedIn Icon"
+              />
+            </a>
+          </li>
               <li>
                 <a
                   href="https://github.com/H4rsh4nk"
@@ -89,6 +98,7 @@ So if you're looking for a software developer who can bring a sense of humor to 
                   <FontAwesomeIcon size="2xl" icon={faLinkedinIn} />
                 </a>
               </li>
+             
             </ul>
           </div>
         </div>
