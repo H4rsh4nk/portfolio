@@ -1,8 +1,7 @@
 import {useState} from 'react'
-
+import { DotLoader } from 'react-spinners';
 import profile from '../assets/carbon.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
 import {  faGithub, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import hr from '../assets/curve-hr.svg'
 
@@ -13,13 +12,13 @@ export default function Hiro () {
     return (
       <>
         {loaded ? (
-          <div className="fixed top-0  left-0 right-0 bottom-0 w-full z-50 overflow-hidden bg-white flex flex-col items-center justify-center">
-            Loading...
+          <div className="fixed top-0  left-0 right-0 bottom-0 w-full z-50 overflow-hidden bg-black flex flex-col items-center justify-center">
+            <DotLoader color="#e76d33" />
           </div>
         ) : null}
         <div
           id="home"
-          className="flex w-full flex-col mt-10 pt-10 md:flex-row gap-5 items-center justify-center text-white relative"
+          className="flex w-full flex-col pt-20 md:flex-row gap-5 items-center justify-center text-white relative"
         >
           <div className="md:w-3/6 md:p-4">
             <img
@@ -80,7 +79,7 @@ So if you're looking for a software developer who can bring a sense of humor to 
                   <FontAwesomeIcon size="2xl" icon={faGithub} />
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   href="https://instagram.com/harshank_pathak"
                   rel="noreferrer"
@@ -88,7 +87,7 @@ So if you're looking for a software developer who can bring a sense of humor to 
                 >
                   <FontAwesomeIcon size="2xl" icon={faInstagram} />
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   href="https://www.linkedin.com/in/harshank-pathak/"

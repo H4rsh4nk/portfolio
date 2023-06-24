@@ -34,7 +34,7 @@ export default function Navbar() {
           target="_blank"
           className=" bg-orange-500 rounded-full px-4 py-1 border border-orange-800 border border-4"
         >
-          Resume
+          View Resume
         </a>
       </div>
     </div>
